@@ -1,0 +1,4 @@
+name: CancelDespawn
+version: '${version}'
+main: org.canceldespawn.CancelDespawn
+api-version: '1.19'
